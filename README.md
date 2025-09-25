@@ -4,7 +4,7 @@ This repository contains the source files for a Power BI dashboard that visualiz
 The dashboard is designed to provide insights into content trends, helping users analyze movies and TV shows across different dimensions.
 
 📷 Dashboard Screenshot
-![Dashboard Screenshot](Netfilx_dashboard.png)
+![Dashboard Screenshot](Netfilx_dashboard.png.png)
 
 🚀 Features
 
